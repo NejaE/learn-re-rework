@@ -11,13 +11,13 @@ nav_exclude: false
 
 The robot ships by air worldwide. The batteries are not included in order to keep shipping costs down, as they are are difficult to ship worldwide and safety restrictions vary by destination. The recommended lead acid batteries are easy to source locally.
 
-An added advantage of not including batteries is that the robot accepts different battery sizes so the user can select batteries depending on whether they prefer a long-endurance heavier robot or a short- endurance lighter robot. In short you need to find your own batteries to put in the robot and these are commonly available online (https://www.batterysharks.com/) or in local stores that supply products for scooters, wheelchairs, uninterupped power supply systems or even automotive.
+The robot accepts different battery sizes so you can select batteries depending on whether you prefer a long-endurance heavier robot or a short- endurance lighter robot. The batteries are commonly available online (https://www.batterysharks.com/) or in local stores that supply products for scooters, wheelchairs, uninterupped power supply systems or even automotive.
 
 <H4 style="color:red">AT ALL TIMES IF RUNNING OR CHARGING THE BATTERY VOLTAGE CONNECTED TO THE Main BOARD MUST REMAIN 30.0V OR LESS.</H4>
 
 ## Specific Qualified Lead Acid Batteries
 
-The robot requires **2X 12V** lead acid style batteries and typically we recommend one of the choices in this section.
+The robot requires **2X 12V** lead acid batteries. We typically recommend one of the following choices:
 
 | Battery Size      | Capacity (Ah)  | Runtime (hours)  | Notes |
 | ---------------- | ---------------- |---------------- |----- |
@@ -25,7 +25,7 @@ The robot requires **2X 12V** lead acid style batteries and typically we recomme
 | 1270  		  | 7 - 10    |   6 - 8  	 	 |	This size battery makes the robot still light enough to lift. |
 | 12350  		  | 30 - 35     |   24+  	 	 |	Recommended only for those who must have extraordinary endurance. This sized battery makes the robot sufficiently heavy that it will be difficult for most users to lift. |
 
-The provided charger is specified for lead acid batteries. We provide foam inserts with the robot to fit the above battery sizes. Do not discard these foam inserts with the packaging.
+The provided charger is specified for lead acid batteries. We provide a styrofoam insert with the robot to fit the above battery sizes. Do not discard the styrofoam insert with the packaging.
 
 ## Typical Current Draw For The Robot
 
@@ -47,11 +47,12 @@ Other cases such as the robot driving up a slope with large loads of course also
 
 ## The Size Of The Battery Compartment
 
-We ship Magni with a foam cut-out that nicely holds two 1270 format Lead Acid batteries.  Avoid discarding this insert when unpacking.
+[INSERT IMAGE WITH DIMENSIONS & REDUCE THE TEXT DESCRIPTION]
+We ship Magni with a styrofoam cut-out that nicely holds two 1270 format Lead Acid batteries.  Avoid discarding this insert when unpacking.
 
-The floor of the battery compartment is always at least 205mm x 258mm.  Due to manufacturing tolerances it may be larger but that cannot be guaranteed.
+The floor of the battery compartment is always at least 205 mm x 258 mm.  Due to manufacturing tolerances it may be larger but that cannot be guaranteed.
 
-From the floor to the top of the top rails on the side we have 135mm of height.  Batteries can go up taller to the top flat metal plate and that would be a height of 184mm.  These measurement are intentionally meant to avoid trying to get so close on a mm of clearance as our manufacturing cannot guarantee mm specs.
+From the floor to the top of the top rails on the side we have 135 mm of height.  Batteries can go up taller to the top flat metal plate and that would be a height of 184 mm.  These measurement are intentionally meant to avoid trying to get so close on a mm of clearance as our manufacturing cannot guarantee mm specs.
 
 ### Other information That May Help Battery Selection
 
