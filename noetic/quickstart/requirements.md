@@ -15,11 +15,21 @@ This is a list of all you'll need in order to get Ubiquity robots up and running
 
 #### ➤ [2x 12V Lead Acid Battery](noetic_overview_batteries)
 
-As the robot ships without batteries.
+The robot requires **2X 12V** lead acid batteries and typically we recommend one of the choices in this section:
+
+| Battery Size      | Capacity (Ah)  | Runtime (hours)  | Notes |
+| ---------------- | ---------------- |---------------- |----- |
+| 1250/1255  | 4 - 6      |      3 - 4		 |	Used when portability of the robot is at a premium - for example if you are travelling by air with the robot. |
+| 1270  		  | 7 - 10    |   6 - 8  	 	 |	This size battery makes the robot still light enough to lift. |
+| 12350  		  | 30 - 35     |   24+  	 	 |	Recommended only for those who must have extraordinary endurance. This sized battery makes the robot sufficiently heavy that it will be difficult for most users to lift. |
+
+The batteries are commonly available online (https://www.batterysharks.com/) or in local stores that supply products for scooters, wheelchairs, uninterupped power supply systems or even automotive.
+
+NOTE: The provided charger is specified for LEAD ACID BATTERIES ONLY and will NOT work or could even pose risks with other battery technologies. We provide styrofoam inserts with the robot to fit the above battery sizes. Do not discard these styrofoam inserts with the packaging.
 
 #### ➤ [CR2032 Coin Battery](noetic_overview_batteries#the-real-time-clock-battery)
 
-To power up the real time clock and make sure robot time is always accurate.
+To power up the real time clock and make sure robot time is always accurate. It's a standard coin battery used for a large variety of household appliances like clocks and kitchen scales, broadly available.
 
 #### ➤ [Wifi and SSH Capable Computer](noetic_quick_start_connecting)
 
